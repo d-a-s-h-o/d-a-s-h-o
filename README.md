@@ -1,4 +1,4 @@
-# <img id="dasho" height="26em" src="https://chatterbox.tk/favicon.png" /> Dasho
+# Dasho
 ```console
 dasho@github:~$ whoami
 dasho
