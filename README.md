@@ -85,7 +85,7 @@ dasho@github:~$ cat | `sudo decrypt ./dasho_of_darknet`
 * [Keybase](https://keybase.io/d_a_s_h_o/)
 * [Chat](https://chatterbox.tk)
 * [Sonar](http://sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion/)
-* Discord: Dasho#0001
+* Discord: `Dasho#0001`
 * dasho@onionz.tk
 
 ![stackEcosystem](https://user-images.githubusercontent.com/67351287/113453657-5b706180-93fe-11eb-940b-6a0eee45fb68.png)
