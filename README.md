@@ -1,4 +1,4 @@
-![big-bg](https://user-images.githubusercontent.com/67351287/113450176-48a65e80-93f7-11eb-9593-86d45e70d061.jpg)
+![banner-bg](https://user-images.githubusercontent.com/67351287/113453215-6c6ca300-93fd-11eb-92db-f56662c306b1.jpg)
 
 # Dasho
 ```console
