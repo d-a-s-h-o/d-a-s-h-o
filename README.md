@@ -1,8 +1,8 @@
-# Dasho
+# ![](https://chatterbox.tk/favicon.png =20x20)Dasho
 ```console
-dasho@VM:~$ whoami
+dasho@github:~$ whoami
 dasho
-dasho@VM:~$ dasho | more
+dasho@github:~$ dasho | more
 Hi, I'm Dasho (aka Curious aka Sokka)
 * Darknet background
 * Outdoor, sports & pizza lover
@@ -11,19 +11,20 @@ Hi, I'm Dasho (aka Curious aka Sokka)
 
 ### InfoSec interests  :space_invader: 
 ```console
-dasho@VM:~$ cat infosec_interests
+dasho@github:~$ cat infosec_interests
 Network security, penetration testing / physical penetration testing, vulnerability assessment, threat intelligence, CTF
 ```
 
 ### Currently working on :ghost:
 ```console
-dasho@VM:~$ cat active_pojects
+dasho@github:~$ cat active_pojects
 * [Dashed Hosting](https://github.com/d-a-s-h-o/tor-php-hosting)
+* [Chatterbox](https://github.com/thenullnetwork/chatterbox) 
 ```
 
 ### Last projects :milky_way:
 ```console
-* [Chatterbox](https://github.com/thenullnetwork/chatterbox) 
+dasho@github:~$ cat last_pojects
 * [D&D//DNK](https://github.com/thenullnetwork/dnd)
 * The Onionz Project
 * [TV@Onionz](https://tv.onionz.tk)
