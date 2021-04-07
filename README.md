@@ -5,7 +5,7 @@
 dasho@github:~$ whoami
 dasho
 dasho@github:~$ dasho | more
-Hi, I'm Dasho (aka Curious aka Sokka)
+Hi, I'm Dasho
 * Darknet background
 * Outdoor, sports & pizza lover
 * Infosec enthusiast driven by passion, curiosity and willingness to learn
@@ -81,11 +81,10 @@ dasho@github:~$ cat | `sudo decrypt ./dasho_of_darknet`
 ```
 
 ### Contacts
-* [Personal blog](https://d-a-s-h-o.tumblr.com/)
 * [Keybase](https://keybase.io/d_a_s_h_o/)
 * [Chat](https://chatterbox.tk)
 * [Sonar](http://sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion/)
 * Discord: `Dasho#0001`
-* dasho@onionz.tk
+* [Email](mailto:dasho@onionz.tk)
 
 ![stackEcosystem](https://user-images.githubusercontent.com/67351287/113453657-5b706180-93fe-11eb-940b-6a0eee45fb68.png)
