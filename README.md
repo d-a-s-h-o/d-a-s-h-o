@@ -29,8 +29,8 @@ dasho@github:~$ cat active_pojects
 dasho@github:~$ cat last_pojects
 * [D&D//DNK](https://github.com/thenullnetwork/dnd)
 * The Onionz Project
-* [TV@Onionz](https://tv.onionz.tk)
-* [DNK//Share](https://share.d-n-k.tk)
+* [TV@Onionz](https://tv.onionz.dev)
+* [DNK//Share](https://share.onionz.dev)
 ```
 
 ### Favourite Dev Tools
@@ -82,9 +82,9 @@ dasho@github:~$ cat | `sudo decrypt ./dasho_of_darknet`
 
 ### Contacts
 * [Keybase](https://keybase.io/d_a_s_h_o/)
-* [Chat](https://chatterbox.tk)
+* [Chat](https://chat.onionz.dev)
 * [Sonar](http://sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion/)
 * Discord: `Dasho#0001`
-* [Email](mailto:dasho@onionz.tk)
+* [Email](mailto:dasho@onionz.dev)
 
 ![stackEcosystem](https://user-images.githubusercontent.com/67351287/113453657-5b706180-93fe-11eb-940b-6a0eee45fb68.png)
