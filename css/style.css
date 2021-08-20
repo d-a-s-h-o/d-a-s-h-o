@@ -2805,7 +2805,7 @@ img {
 .project-block .caption-box .cat a {
   position: relative;
   display: inline-block;
-  color: #1f3570;
+  color: var(--theme-lighter);
   font-weight: 600;
 }
 
