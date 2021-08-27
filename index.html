@@ -1,62 +1,43 @@
 <!DOCTYPE html>
-<html lang="en" oncontextmenu="return false">
+<html lang="en" oncontextmenu="return!1">
 
 <head>
+    <meta name="author" content="Dasho">
     <meta charset="utf-8">
     <title>Dasho</title>
-    <!-- Stylesheets -->
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/jquery.pagepiling.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-    <link href="css/responsive.css" rel="stylesheet">
-    <link href="css/cursor.css" rel="stylesheet">
-
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/jquery.pagepiling.min.css" rel="stylesheet">
+    <link href="css/style.min.css" rel="stylesheet">
+    <link href="css/responsive.min.css" rel="stylesheet">
+    <link href="css/cursor.min.css" rel="stylesheet">
     <link rel="shortcut icon" href="images\icons\favicon.ico" type="image/x-icon">
     <link rel="icon" href="images\icons\favicon.ico" type="image/x-icon">
-
-    <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
 </head>
 
-<body
-    style="-moz-user-select: none; -webkit-user-select: none; -ms-user-select:none; user-select:none;-o-user-select:none;"
-    unselectable="on" onselectstart="return false;">
+<body style="-moz-user-select:none;-webkit-user-select:none;-ms-user-select:none;user-select:none;-o-user-select:none"
+    unselectable="on" onselectstart="return!1">
     <div class="cursor"></div>
-
-    <!-- Preloader -->
     <div class="preloader">
         <div class="preloader_inner">0%</div>
         <div class="loader-bar"></div>
     </div>
-
     <div class="page-wrapper">
-        <!-- Main Header-->
         <header class="main-header">
             <div class="main-box">
-                <div class="logo">
-                    <a href="index.html">
-                        <img src="images/logo.png" alt="" title="" class="logo-light">
-                        <img src="images/logo-dark.png" alt="" title="" class="logo-dark">
-                    </a>
-                </div>
+                <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title="" class="logo-light">
+                        <img src="images/logo-dark.png" alt="" title="" class="logo-dark"></a></div>
             </div>
         </header>
-        <!--End Main Header -->
-
-        <!-- Sidenav Bar -->
         <section class="sidenav-bar">
-            <!-- menu-backdrop -->
             <div class="menu-backdrop"></div>
-
             <div class="nav-box">
                 <div class="inner-box">
                     <div class="upper-box">
                         <div class="btn-box" style="cursor:none"><button class="nav-toggler" style="cursor:none"><span
                                     class="flaticon-close-1" style="cursor:none"></span></button></div>
                     </div>
-
-                    <!-- .Side Nav -->
                     <nav class="side-nav">
                         <ul class="navigation" id="menu">
                             <li data-menuanchor="Home"><a href="#Home">Home</a></li>
@@ -66,15 +47,10 @@
                             <li data-menuanchor="Portfolio"><a href="#Portfolio">Portfolio</a></li>
                             <li data-menuanchor="Contact"><a href="#Contact">Contact</a></li>
                         </ul>
-
-
-                    </nav><!-- /.Side-menu -->
-
-                    <!-- Bottom Box -->
+                    </nav>
                     <div class="bottom-box">
                         <div class="copyright-text">2021 | &copy; <a href="https://github.com/d-a-s-h-o"
                                 target="_blank">Dasho</a>.</div>
-
                         <ul class="social-icon-one">
                             <li><a href="https://keybase.io/d_a_s_h_o" target="_blank"><span
                                         class="fab fa-keybase"></span></a></li>
@@ -87,9 +63,6 @@
                 </div>
             </div>
         </section>
-        <!--End Sidenav Bar -->
-
-
         <div id="pagepiling" style="cursor:none">
             <ul class="social-icon-two">
                 <li><a href="https://keybase.io/d_a_s_h_o" target="_blank"><span class="fab fa-keybase"></span></a></li>
@@ -97,74 +70,46 @@
                 <li><a href="https://www.reddit.com/user/ScratchThatScarecrow" target="_blank"><span
                             class="fab fa-reddit"></span></a></li>
             </ul>
-
-            <!-- Banner Section -->
             <section class="pp-scrollable section" id="Home">
                 <div class="banner-section">
                     <div class="sec-icon"><span class="flaticon-home-page"></span></div>
                     <div class="sec-count">01</div>
-                    <div class="sec-float-text">
-                        <span>H</span>
-                        <span>O</span>
-                        <span>M</span>
-                        <span>E</span>
-                    </div>
-
+                    <div class="sec-float-text"><span>H</span> <span>O</span> <span>M</span> <span>E</span></div>
                     <div class="auto-container">
                         <div class="row">
                             <div class="content-column col-lg-6 col-md-6">
                                 <div class="content-box">
                                     <div class="inner-box">
-                                        <!-- Title Box -->
                                         <div class="title-box">
                                             <h4>Hello Guys! 👋🏽</h4>
                                             <h2>I'm Dasho.</h2>
                                             <p>Interested in my work? This is the go to place to learn all about it!</p>
                                         </div>
-
-                                        <!-- Download CV 
-                                    <div class="download-cv">
-                                        <a href="assets\Curriculum vitae\Adérito Neto CV.pdf" target="_noopener" class="theme-btn btn-style-one"><span class="btn-title">Download CV <span class="icon flaticon-download"></span></span></a>
-                                        <a href="pt.html" class="theme-btn btn-style-one"><span class="btn-title">Portuguese <span class="icon flaticon-worldwide"></span></span></a> 
-                                    </div>-->
                                     </div>
                                 </div>
                             </div>
                         </div>
-
-                        <!-- Image Box / Right side Image -->
                         <div class="image-column">
-                            <div class="background-shape" style="background-image: url(images/icons/shape.svg);"></div>
-                            <div class="main-image" style="background-image: url(images/resource/banner-img.svg);">
-                            </div>
+                            <div class="background-shape" style="background-image:url(images/icons/shape.svg)"></div>
+                            <div class="main-image" style="background-image:url(images/resource/banner-img.svg)"></div>
                         </div>
                     </div>
                 </div>
             </section>
-            <!-- End Banner Section -->
-
-            <!-- About Me -->
             <section class="section light-section pp-scrollable" id="About">
                 <div class="about-me">
                     <div class="sec-icon"><span class="flaticon-black-male-user-symbol"></span></div>
                     <div class="sec-count">02</div>
-                    <div class="sec-float-text">
-                        <span>A</span>
-                        <span>B</span>
-                        <span>O</span>
-                        <span>U</span>
+                    <div class="sec-float-text"><span>A</span> <span>B</span> <span>O</span> <span>U</span>
                         <span>T</span>
                     </div>
                     <div class="auto-container">
                         <div class="center-box">
                             <div class="center-inner">
-                                <div class="sec-title">
-                                    <span class="title">BASIC INFO ABOUT ME</span>
+                                <div class="sec-title"><span class="title">BASIC INFO ABOUT ME</span>
                                     <h2>About Myself</h2>
                                 </div>
-
                                 <div class="row">
-                                    <!-- Content column -->
                                     <div class="content-column col-lg-7 col-md-12 col-sm-12 order-2">
                                         <div class="inner-column">
                                             <div class="text-box">
@@ -172,14 +117,10 @@
                                                     interests in <span class="theme_color">climbing</span>, <span
                                                         class="theme_color">coding</span>, and <span
                                                         class="theme_color">maths</span>!</h4>
-                                                <p>Hello, my name is Dasho. I’m a young developer
-                                                    falling in love with code as I go. I have many
-                                                    goals in life... some that I'll never achieve - but my main goal
-                                                    is to make it to space! 🚀
-                                                </p>
+                                                <p>Hello, my name is Dasho. I’m a young developer falling in love with
+                                                    code as I go. I have many goals in life... some that I'll never
+                                                    achieve - but my main goal is to make it to space! 🚀</p>
                                             </div>
-
-                                            <!--Progress-->
                                             <div class="progress-bars row">
                                                 <div class="bar-item col-lg-6 col-md-6 col-sm-12">
                                                     <div class="skill-header">
@@ -197,8 +138,6 @@
                                                         </div>
                                                     </div>
                                                 </div>
-
-                                                <!--Skill Item-->
                                                 <div class="bar-item col-lg-6 col-md-6 col-sm-12">
                                                     <div class="skill-header">
                                                         <div class="skill-title">Design</div>
@@ -215,8 +154,6 @@
                                                         </div>
                                                     </div>
                                                 </div>
-
-                                                <!--Skill Item-->
                                                 <div class="bar-item col-lg-6 col-md-6 col-sm-12">
                                                     <div class="skill-header">
                                                         <div class="skill-title">Organization</div>
@@ -233,8 +170,6 @@
                                                         </div>
                                                     </div>
                                                 </div>
-
-                                                <!--Skill Item-->
                                                 <div class="bar-item col-lg-6 col-md-6 col-sm-12">
                                                     <div class="skill-header clearfix">
                                                         <div class="skill-title">TeamWork</div>
@@ -252,34 +187,27 @@
                                                     </div>
                                                 </div>
                                             </div>
-
                                             <div class="fact-counter">
                                                 <div class="row clearfix">
-                                                    <!--Column-->
                                                     <div class="counter-column col-xl-4 col-lg-6 col-md-4 col-sm-4">
-                                                        <div class="count-box">
-                                                            <span class="icon flaticon-fire"></span>
+                                                        <div class="count-box"><span class="icon flaticon-fire"></span>
                                                             <span class="count-text" data-speed="3000"
                                                                 data-stop="6">0</span>
                                                             <h4 class="counter-title">Projects completed</h4>
                                                         </div>
                                                     </div>
-
-                                                    <!--Column-->
                                                     <div class="counter-column col-xl-4 col-lg-6 col-md-4 col-sm-4">
-                                                        <div class="count-box">
-                                                            <span class="icon flaticon-certificate"></span>
-                                                            <span class="count-text" data-speed="3000"
+                                                        <div class="count-box"><span
+                                                                class="icon flaticon-certificate"></span> <span
+                                                                class="count-text" data-speed="3000"
                                                                 data-stop="1000">0</span>
                                                             <h4 class="counter-title">and 1000s of Hours</h4>
                                                         </div>
                                                     </div>
-
-                                                    <!--Column-->
                                                     <div class="counter-column col-xl-4 col-lg-6 col-md-4 col-sm-4">
-                                                        <div class="count-box">
-                                                            <span class="icon flaticon-friends-2"></span>
-                                                            <span class="count-text" data-speed="3000"
+                                                        <div class="count-box"><span
+                                                                class="icon flaticon-friends-2"></span> <span
+                                                                class="count-text" data-speed="3000"
                                                                 data-stop="154">0</span>
                                                             <h4 class="counter-title">Contributions on GitHub</h4>
                                                         </div>
@@ -288,14 +216,10 @@
                                             </div>
                                         </div>
                                     </div>
-
-                                    <!-- Image column -->
                                     <div class="image-column col-lg-5 col-md-12 col-sm-12">
                                         <div class="image-box">
-                                            <div class="image">
-                                                <img src="images/resource/about-img.svg" alt="" data-depth="0.20"
-                                                    class="girl-img">
-                                            </div>
+                                            <div class="image"><img src="images/resource/about-img.svg" alt=""
+                                                    data-depth="0.20" class="girl-img"></div>
                                         </div>
                                     </div>
                                 </div>
@@ -304,54 +228,36 @@
                     </div>
                 </div>
             </section>
-            <!-- End About Me -->
-
-            <!-- Resume Section -->
             <section class="section pp-scrollable" id="Resume">
                 <div class="resume-section">
                     <div class="sec-icon"><span class="flaticon-cv"></span></div>
                     <div class="sec-count">03</div>
-                    <div class="sec-float-text">
-                        <span>R</span>
-                        <span>E</span>
-                        <span>S</span>
-                        <span>U</span>
-                        <span>M</span>
-                        <span>E</span>
+                    <div class="sec-float-text"><span>R</span> <span>E</span> <span>S</span> <span>U</span>
+                        <span>M</span> <span>E</span>
                     </div>
                     <div class="auto-container">
                         <div class="center-box">
                             <div class="center-inner">
-                                <div class="sec-title light">
-                                    <span class="title">MY EXPERIENCE IN THIS WORLD</span>
+                                <div class="sec-title light"><span class="title">MY EXPERIENCE IN THIS WORLD</span>
                                     <h2>Experience & Education</h2>
                                 </div>
-
                                 <div class="resume-tabs">
-
-                                    <!--Tabs Box-->
                                     <ul class="resume-tab-btns tab-buttons clearfix">
                                         <li class="resume-tab-btn active-btn" data-tab="#Education" style="cursor:none">
                                             Education</li>
                                         <li class="resume-tab-btn" data-tab="#Expirience" style="cursor:none">Experience
                                         </li>
                                     </ul>
-
                                     <div class="resume-tabs-content">
-                                        <!--Tab-->
                                         <div class="resume-tab active-tab" id="Education">
-                                            <!-- Resume Carousel -->
                                             <div class="resume-carousel owl-carousel owl-theme">
-                                                <!-- Slide Item -->
                                                 <div class="slide-item">
-                                                    <!-- Resume Block -->
                                                     <div class="resume-block">
                                                         <div class="inner-box">
                                                             <div class="expirience">
-                                                                <h4>John Hopkins - Center for Talented Youth</h4>
-                                                                <span class="year">2013 - 2019</span>
-                                                            </div>
-                                                            <span class="devider"></span>
+                                                                <h4>John Hopkins - Center for Talented Youth</h4><span
+                                                                    class="year">2013 - 2019</span>
+                                                            </div><span class="devider"></span>
                                                             <div class="text-box">
                                                                 <h4>STEM</h4>
                                                                 <p>Completed a variety of STEM Modules ranging from
@@ -363,15 +269,12 @@
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!-- Resume Block -->
                                                     <div class="resume-block">
                                                         <div class="inner-box">
                                                             <div class="expirience">
-                                                                <h4>The Institute of Education</h4>
-                                                                <span class="year">2018 - 2021</span>
-                                                            </div>
-                                                            <span class="devider"></span>
+                                                                <h4>The Institute of Education</h4><span
+                                                                    class="year">2018 - 2021</span>
+                                                            </div><span class="devider"></span>
                                                             <div class="text-box">
                                                                 <h4>High School</h4>
                                                                 <p>A select admissions school with a three year,
@@ -382,22 +285,15 @@
                                                 </div>
                                             </div>
                                         </div>
-
-                                        <!--Tab-->
                                         <div class="resume-tab" id="Expirience">
-                                            <!-- Resume Carousel -->
                                             <div class="resume-carousel owl-carousel owl-theme">
-                                                <!-- Slide Item -->
                                                 <div class="slide-item">
-                                                    <!-- Resume Block -->
                                                     <div class="resume-block">
                                                         <div class="inner-box">
                                                             <div class="expirience">
-                                                                <h4>Freelance</h4>
-                                                                <span class="year">2019 -
+                                                                <h4>Freelance</h4><span class="year">2019 -
                                                                     <strong>Current</strong></span>
-                                                            </div>
-                                                            <span class="devider"></span>
+                                                            </div><span class="devider"></span>
                                                             <div class="text-box">
                                                                 <h4>Full Stack Developer</h4>
                                                                 <p>I work on front and back end development, includeing
@@ -406,15 +302,12 @@
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!-- Resume Block -->
                                                     <div class="resume-block">
                                                         <div class="inner-box">
                                                             <div class="expirience">
-                                                                <h4>M4TH5 Ireland</h4>
-                                                                <span class="year">2018 - 2020</span>
-                                                            </div>
-                                                            <span class="devider"></span>
+                                                                <h4>M4TH5 Ireland</h4><span class="year">2018 -
+                                                                    2020</span>
+                                                            </div><span class="devider"></span>
                                                             <div class="text-box">
                                                                 <h4>Tutor</h4>
                                                                 <p>My teaching career has displayed significant
@@ -425,15 +318,12 @@
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!-- Resume Block -->
                                                     <div class="resume-block">
                                                         <div class="inner-box">
                                                             <div class="expirience">
-                                                                <h4>Suas Educational Development</h4>
-                                                                <span class="year">2018 - 2019</span>
-                                                            </div>
-                                                            <span class="devider"></span>
+                                                                <h4>Suas Educational Development</h4><span
+                                                                    class="year">2018 - 2019</span>
+                                                            </div><span class="devider"></span>
                                                             <div class="text-box">
                                                                 <h4>Academic Mentor</h4>
                                                                 <p>I volunteered at Deis school where I mentored young
@@ -443,102 +333,76 @@
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!-- Resume Block -->
                                                     <div class="resume-block">
                                                         <div class="inner-box">
                                                             <div class="expirience">
-                                                                <h4>Alexion Pharmaceuticals, Inc.</h4>
-                                                                <span class="year">2020</span>
-                                                            </div>
-                                                            <span class="devider"></span>
+                                                                <h4>Alexion Pharmaceuticals, Inc.</h4><span
+                                                                    class="year">2020</span>
+                                                            </div><span class="devider"></span>
                                                             <div class="text-box">
                                                                 <h4>Work Experience</h4>
                                                                 <p>Work experience for Transition Year. Great insight
                                                                     into the intricacies of the pharmaceutical
                                                                     world.<br>Key Learning Aspects:</p>
-                                                                <ul style="color: #9d98b1; list-style: inside circle;">
-                                                                    <li
-                                                                        style="color: #9d98b1; list-style: inside circle;">
+                                                                <ul style="color:#9d98b1;list-style:inside circle">
+                                                                    <li style="color:#9d98b1;list-style:inside circle">
                                                                         Business Etiquette</li>
-                                                                    <li
-                                                                        style="color: #9d98b1; list-style: inside circle;">
+                                                                    <li style="color:#9d98b1;list-style:inside circle">
                                                                         Chain-of-command</li>
-                                                                    <li
-                                                                        style="color: #9d98b1; list-style: inside circle;">
+                                                                    <li style="color:#9d98b1;list-style:inside circle">
                                                                         Responsibility & Liability</li>
-                                                                    <li
-                                                                        style="color: #9d98b1; list-style: inside circle;">
+                                                                    <li style="color:#9d98b1;list-style:inside circle">
                                                                         Recording & Documentation</li>
-                                                                    <li
-                                                                        style="color: #9d98b1; list-style: inside circle;">
+                                                                    <li style="color:#9d98b1;list-style:inside circle">
                                                                         Corporate Security</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!-- Resume Block -->
                                                     <div class="resume-block">
                                                         <div class="inner-box">
                                                             <div class="expirience">
-                                                                <h4>Arthur Cox</h4>
-                                                                <span class="year">2019</span>
-                                                            </div>
-                                                            <span class="devider"></span>
+                                                                <h4>Arthur Cox</h4><span class="year">2019</span>
+                                                            </div><span class="devider"></span>
                                                             <div class="text-box">
                                                                 <h4>Work Experience</h4>
                                                                 <p>Work experience for Transition Year. A fabulous
                                                                     introduction into the legal profession. Rewarding,
                                                                     informative, fun.<br>Key Learning Aspects:</p>
-                                                                <ul style="color: #9d98b1; list-style: inside circle;">
-                                                                    <li
-                                                                        style="color: #9d98b1; list-style: inside circle;">
+                                                                <ul style="color:#9d98b1;list-style:inside circle">
+                                                                    <li style="color:#9d98b1;list-style:inside circle">
                                                                         Corporate Law</li>
-                                                                    <li
-                                                                        style="color: #9d98b1; list-style: inside circle;">
+                                                                    <li style="color:#9d98b1;list-style:inside circle">
                                                                         Legal Procedure</li>
-                                                                    <li
-                                                                        style="color: #9d98b1; list-style: inside circle;">
+                                                                    <li style="color:#9d98b1;list-style:inside circle">
                                                                         Corporate Liability</li>
-                                                                    <li
-                                                                        style="color: #9d98b1; list-style: inside circle;">
+                                                                    <li style="color:#9d98b1;list-style:inside circle">
                                                                         Organisation & Management</li>
-                                                                    <li
-                                                                        style="color: #9d98b1; list-style: inside circle;">
+                                                                    <li style="color:#9d98b1;list-style:inside circle">
                                                                         Human Resources & Workers Welfare</li>
-                                                                    <li
-                                                                        style="color: #9d98b1; list-style: inside circle;">
+                                                                    <li style="color:#9d98b1;list-style:inside circle">
                                                                         Public Relations</li>
                                                                 </ul>
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!-- Resume Block -->
                                                     <div class="resume-block">
                                                         <div class="inner-box">
                                                             <div class="expirience">
-                                                                <h4>Dunnes Stores</h4>
-                                                                <span class="year">2021 -
+                                                                <h4>Dunnes Stores</h4><span class="year">2021 -
                                                                     <strong>Current</strong></span>
-                                                            </div>
-                                                            <span class="devider"></span>
+                                                            </div><span class="devider"></span>
                                                             <div class="text-box">
                                                                 <h4>Shop Assistant</h4>
                                                                 <p>Part-time staff working in a local Dunnes Stores.</p>
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!-- Resume Block -->
                                                     <div class="resume-block">
                                                         <div class="inner-box">
                                                             <div class="expirience">
-                                                                <h4>Barnardos Ireland</h4>
-                                                                <span class="year">2018</span>
-                                                            </div>
-                                                            <span class="devider"></span>
+                                                                <h4>Barnardos Ireland</h4><span class="year">2018</span>
+                                                            </div><span class="devider"></span>
                                                             <div class="text-box">
                                                                 <h4>Shop Assistant</h4>
                                                                 <p>For the Christmas week, I helped out in Barnardos
@@ -559,39 +423,24 @@
                     </div>
                 </div>
             </section>
-            <!-- End Resume Section -->
-
-            <!-- Services Section -->
             <section class="section light-section pp-scrollable" id="Services">
                 <div class="services-section">
                     <div class="sec-icon"><span class="fa fa-cog"></span></div>
                     <div class="sec-count">04</div>
-                    <div class="sec-float-text">
-                        <span>S</span>
-                        <span>E</span>
-                        <span>R</span>
-                        <span>V</span>
-                        <span>I</span>
-                        <span>C</span>
-                        <span>E</span>
-                        <span>S</span>
+                    <div class="sec-float-text"><span>S</span> <span>E</span> <span>R</span> <span>V</span>
+                        <span>I</span> <span>C</span> <span>E</span> <span>S</span>
                     </div>
                     <div class="auto-container">
                         <div class="center-box">
                             <div class="center-inner">
-
-                                <div class="sec-title">
-                                    <span class="title">MY EXPERIENCE IN THIS WORLD</span>
+                                <div class="sec-title"><span class="title">MY EXPERIENCE IN THIS WORLD</span>
                                     <h2>Things I like to do</h2>
                                 </div>
-
                                 <div class="row masonry-items-container">
-                                    <!-- Services Block -->
                                     <div class="service-block masonry-item col-lg-4 col-md-6 col-sm-12">
                                         <div class="inner-box">
                                             <div class="floating-text">Develop</div>
-                                            <div class="title-box">
-                                                <span class="icon flaticon-programming"></span>
+                                            <div class="title-box"><span class="icon flaticon-programming"></span>
                                                 <h3>Develop</h3>
                                             </div>
                                             <div class="text">I love developing applications with the most up-to-date
@@ -599,67 +448,52 @@
                                             </div>
                                         </div>
                                     </div>
-
-                                    <!-- Services Block -->
                                     <div class="service-block masonry-item block-two col-lg-4 col-md-6 col-sm-12">
                                         <div class="inner-box">
                                             <div class="floating-text">Design</div>
-                                            <div class="title-box">
-                                                <span class="icon flaticon-edit-tools"></span>
+                                            <div class="title-box"><span class="icon flaticon-edit-tools"></span>
                                                 <h3>Design</h3>
                                             </div>
                                             <div class="text">UX is just as important as all the backend stuff - and I
                                                 love solving CSS problems just as much as Bash problems!</div>
                                         </div>
                                     </div>
-
-                                    <!-- Services Block -->
                                     <div class="service-block masonry-item block-three col-lg-4 col-md-6 col-sm-12">
                                         <div class="inner-box">
                                             <div class="floating-text">WebApp</div>
-                                            <div class="title-box">
-                                                <span class="icon flaticon-analytics"></span>
+                                            <div class="title-box"><span class="icon flaticon-analytics"></span>
                                                 <h3>Web to App</h3>
                                             </div>
                                             <div class="text">Most recently, I have been matching the beautiful
                                                 aesthetics of the websites with their powerful backends, making
-                                                incredible WebApps thanks to tools like ReactJS, Angular,
-                                                and ElectronJS.</div>
+                                                incredible WebApps thanks to tools like ReactJS, Angular, and
+                                                ElectronJS.</div>
                                         </div>
                                     </div>
-
-                                    <!-- Services Block -->
                                     <div class="service-block masonry-item col-lg-4 col-md-6 col-sm-12">
                                         <div class="inner-box">
                                             <div class="floating-text">Rewriting</div>
-                                            <div class="title-box">
-                                                <span class="icon flaticon-writing"></span>
+                                            <div class="title-box"><span class="icon flaticon-writing"></span>
                                                 <h3>Rewriting</h3>
                                             </div>
                                             <div class="text">I often rewrite code and keep it totally organized and in
                                                 a way that makes it easy understand, and improves on latency.</div>
                                         </div>
                                     </div>
-
-                                    <!-- Services Block -->
                                     <div class="service-block masonry-item col-lg-4 col-md-6 col-sm-12">
                                         <div class="inner-box">
                                             <div class="floating-text">Editing</div>
-                                            <div class="title-box">
-                                                <span class="icon flaticon-focus-1"></span>
+                                            <div class="title-box"><span class="icon flaticon-focus-1"></span>
                                                 <h3>Editing</h3>
                                             </div>
                                             <div class="text">I create and edit visuals thanks to the power of Inkscape.
                                                 Vectoring has never been so easy and fun!</div>
                                         </div>
                                     </div>
-
-                                    <!-- Services Block -->
                                     <div class="service-block masonry-item col-lg-4 col-md-6 col-sm-12">
                                         <div class="inner-box">
                                             <div class="floating-text">Responsive</div>
-                                            <div class="title-box">
-                                                <span class="icon flaticon-smartphone"></span>
+                                            <div class="title-box"><span class="icon flaticon-smartphone"></span>
                                                 <h3>Responsive</h3>
                                             </div>
                                             <div class="text">In 2021 you can't go online without having a mobile
@@ -672,9 +506,6 @@
                     </div>
                 </div>
             </section>
-            <!-- End Services Section -->
-
-            <!-- Portfolio Section -->
             <section class="section pp-scrollable" id="Portfolio">
                 <div class="portfolio-section">
                     <div class="sec-icon"><span class="flaticon-portfolio"></span></div>
@@ -682,19 +513,14 @@
                     <div class="sec-float-text">
                         <span>P</span><span>O</span><span>R</span><span>T</span><span>F</span><span>O</span><span>L</span><span>I</span><span>O</span>
                     </div>
-
                     <div class="auto-container">
                         <div class="center-box">
                             <div class="center-inner">
-                                <div class="sec-title light">
-                                    <span class="title">MEET MY PROJECTS</span>
+                                <div class="sec-title light"><span class="title">MEET MY PROJECTS</span>
                                     <h2>My Portfolio</h2>
                                 </div>
-
-                                <!--Porfolio Tabs-->
                                 <div class="project-tab">
                                     <div class="tab-btns-box">
-                                        <!--Tabs Header-->
                                         <div class="tabs-header">
                                             <ul class="project-tab-btns clearfix">
                                                 <li class="p-tab-btn active-btn" data-tab="#p-tab-1"
@@ -702,40 +528,29 @@
                                                 <li class="p-tab-btn" data-tab="#p-tab-2" style="cursor:none">JavaScript
                                                 </li>
                                                 <li class="p-tab-btn" data-tab="#p-tab-3" style="cursor:none">PHP</li>
-                                                </li>
                                             </ul>
                                         </div>
                                     </div>
-
-                                    <!--Tabs Content-->
                                     <div class="p-tabs-content">
-
-                                        <!--Portfolio Tab / Active Tab-->
                                         <div class="p-tab active-tab" id="p-tab-1" style="cursor:none">
                                             <div class="about-projects">
                                                 <h4>Here you can see <span class="theme_color">Everything</span> that I
                                                     have worked on</h4>
-                                                <p>Here you can find some of my works and projects that I did during
-                                                    my short time as a developer. Click on the
-                                                    <span class="fab fa-github"></span> icon to see the project.
-                                                </p>
+                                                <p>Here you can find some of my works and projects that I did during my
+                                                    short time as a developer. Click on the <span
+                                                        class="fab fa-github"></span> icon to see the project.</p>
                                             </div>
-
                                             <div class="carouse-outer" style="cursor:none">
                                                 <div class="project-carousel owl-theme owl-carousel">
-
-                                                    <!--Project Block-->
                                                     <div class="project-block">
                                                         <div class="inner-box">
                                                             <div class="image-box">
                                                                 <figure class="image"><img src="images/gallery/2.png"
-                                                                        alt="" /></figure>
+                                                                        alt=""></figure>
                                                             </div>
                                                             <div class="caption-box">
                                                                 <h4>todo.list</h4>
-                                                                <div class="cat">
-                                                                    <a>Made with</a>
-                                                                    <a>JavaScript</a>
+                                                                <div class="cat"><a>Made with</a> <a>JavaScript</a>
                                                                     <li><a href="https://github.com/d-a-s-h-o/todo.list"
                                                                             target="_blank"><span
                                                                                 class="fab fa-github"></span></a></li>
@@ -743,15 +558,11 @@
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!-- Project Block-->
                                                     <div class="project-block">
                                                         <div class="inner-box">
                                                             <div class="caption-box">
                                                                 <h4>&lt;noscript&gt; Droplet Hosting</h4>
-                                                                <div class="cat">
-                                                                    <a>Made with</a>
-                                                                    <a>PHP</a>
+                                                                <div class="cat"><a>Made with</a> <a>PHP</a>
                                                                     <li><a href="https://github.com/d-a-s-h-o/tor-php-hosting"
                                                                             target="_blank"><span
                                                                                 class="fab fa-github"></span></a></li>
@@ -759,23 +570,19 @@
                                                             </div>
                                                             <div class="image-box">
                                                                 <figure class="image"><img src="images/gallery/1.png"
-                                                                        alt="" /></figure>
+                                                                        alt=""></figure>
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!--Project Block-->
                                                     <div class="project-block">
                                                         <div class="inner-box">
                                                             <div class="image-box">
                                                                 <figure class="image"><img src="images/gallery/3.png"
-                                                                        alt="" /></figure>
+                                                                        alt=""></figure>
                                                             </div>
                                                             <div class="caption-box">
                                                                 <h4>Calculator</h4>
-                                                                <div class="cat">
-                                                                    <a>Made with</a>
-                                                                    <a>JavaScript</a>
+                                                                <div class="cat"><a>Made with</a> <a>JavaScript</a>
                                                                     <li><a href="https://github.com/d-a-s-h-o/calculatorJS"
                                                                             target="_blank"><span
                                                                                 class="fab fa-github"></span></a></li>
@@ -783,15 +590,11 @@
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!--Project Block-->
                                                     <div class="project-block even">
                                                         <div class="inner-box">
                                                             <div class="caption-box">
                                                                 <h4>D&Dz</h4>
-                                                                <div class="cat">
-                                                                    <a>Made with</a>
-                                                                    <a>JavaScript</a>
+                                                                <div class="cat"><a>Made with</a> <a>JavaScript</a>
                                                                     <li><a href="https://github.com/d-a-s-h-o/dnd"
                                                                             target="_blank"><span
                                                                                 class="fab fa-github"></span></a></li>
@@ -799,23 +602,19 @@
                                                             </div>
                                                             <div class="image-box">
                                                                 <figure class="image"><img src="images/gallery/6.png"
-                                                                        alt="" /></figure>
+                                                                        alt=""></figure>
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!--Project Block-->
                                                     <div class="project-block">
                                                         <div class="inner-box">
                                                             <div class="image-box">
                                                                 <figure class="image"><img src="images/gallery/5.png"
-                                                                        alt="" /></figure>
+                                                                        alt=""></figure>
                                                             </div>
                                                             <div class="caption-box">
                                                                 <h4>rand.pass</h4>
-                                                                <div class="cat">
-                                                                    <a>Made with</a>
-                                                                    <a>JavaScript</a>
+                                                                <div class="cat"><a>Made with</a> <a>JavaScript</a>
                                                                     <li><a href="https://github.com/d-a-s-h-o/rand.pass"
                                                                             target="_blank"><span
                                                                                 class="fab fa-github"></span></a></li>
@@ -823,15 +622,11 @@
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!--Project Block-->
                                                     <div class="project-block even">
                                                         <div class="inner-box">
                                                             <div class="caption-box">
                                                                 <h4>&lt;noscript&gt; Chat App</h4>
-                                                                <div class="cat">
-                                                                    <a>Made with</a>
-                                                                    <a>PHP</a>
+                                                                <div class="cat"><a>Made with</a> <a>PHP</a>
                                                                     <li><a href="https://github.com/d-a-s-h-o/chat"
                                                                             target="_blank"><span
                                                                                 class="fab fa-github"></span></a></li>
@@ -839,16 +634,13 @@
                                                             </div>
                                                             <div class="image-box">
                                                                 <figure class="image"><img src="images/gallery/4.png"
-                                                                        alt="" /></figure>
+                                                                        alt=""></figure>
                                                             </div>
                                                         </div>
                                                     </div>
-
                                                 </div>
                                             </div>
                                         </div>
-
-                                        <!--Portfolio Tab-->
                                         <div class="p-tab" id="p-tab-2">
                                             <div class="about-projects">
                                                 <h4>I made these projects with <span
@@ -857,21 +649,17 @@
                                                     focus on using frameworks such as React and Vue. Click on the <span
                                                         class="fab fa-github"></span> icon to see the project.</p>
                                             </div>
-
                                             <div class="carouse-outer">
                                                 <div class="project-carousel owl-theme owl-carousel">
-                                                    <!--Project Block-->
                                                     <div class="project-block">
                                                         <div class="inner-box">
                                                             <div class="image-box">
                                                                 <figure class="image"><img src="images/gallery/5.png"
-                                                                        alt="" /></figure>
+                                                                        alt=""></figure>
                                                             </div>
                                                             <div class="caption-box">
                                                                 <h4>rand.pass</h4>
-                                                                <div class="cat">
-                                                                    <a>Made with</a>
-                                                                    <a>JavaScript</a>
+                                                                <div class="cat"><a>Made with</a> <a>JavaScript</a>
                                                                     <li><a href="https://github.com/d-a-s-h-o/rand.pass"
                                                                             target="_blank"><span
                                                                                 class="fab fa-github"></span></a></li>
@@ -879,15 +667,11 @@
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!--Project Block-->
                                                     <div class="project-block even">
                                                         <div class="inner-box">
                                                             <div class="caption-box">
                                                                 <h4>D&Dz</h4>
-                                                                <div class="cat">
-                                                                    <a>Made with</a>
-                                                                    <a>JavaScript</a>
+                                                                <div class="cat"><a>Made with</a> <a>JavaScript</a>
                                                                     <li><a href="https://github.com/d-a-s-h-o/dnd"
                                                                             target="_blank"><span
                                                                                 class="fab fa-github"></span></a></li>
@@ -895,23 +679,19 @@
                                                             </div>
                                                             <div class="image-box">
                                                                 <figure class="image"><img src="images/gallery/6.png"
-                                                                        alt="" /></figure>
+                                                                        alt=""></figure>
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!--Project Block-->
                                                     <div class="project-block">
                                                         <div class="inner-box">
                                                             <div class="image-box">
                                                                 <figure class="image"><img src="images/gallery/3.png"
-                                                                        alt="" /></figure>
+                                                                        alt=""></figure>
                                                             </div>
                                                             <div class="caption-box">
                                                                 <h4>Calculator</h4>
-                                                                <div class="cat">
-                                                                    <a>Made with</a>
-                                                                    <a>JavaScript</a>
+                                                                <div class="cat"><a>Made with</a> <a>JavaScript</a>
                                                                     <li><a href="https://github.com/d-a-s-h-o/calculatorJS"
                                                                             target="_blank"><span
                                                                                 class="fab fa-github"></span></a></li>
@@ -919,15 +699,11 @@
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!--Project Block-->
                                                     <div class="project-block">
                                                         <div class="inner-box">
                                                             <div class="caption-box">
                                                                 <h4>todo.list</h4>
-                                                                <div class="cat">
-                                                                    <a>Made with</a>
-                                                                    <a>JavaScript</a>
+                                                                <div class="cat"><a>Made with</a> <a>JavaScript</a>
                                                                     <li><a href="https://github.com/d-a-s-h-o/todo.list"
                                                                             target="_blank"><span
                                                                                 class="fab fa-github"></span></a></li>
@@ -935,15 +711,13 @@
                                                             </div>
                                                             <div class="image-box">
                                                                 <figure class="image"><img src="images/gallery/2.png"
-                                                                        alt="" /></figure>
+                                                                        alt=""></figure>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-
-                                        <!--Portfolio Tab-->
                                         <div class="p-tab" id="p-tab-3">
                                             <div class="about-projects">
                                                 <h4>These two were made with <span class="theme_color">PHP</span></h4>
@@ -952,21 +726,17 @@
                                                     to have under your belt! Click on the <span
                                                         class="fab fa-github"></span> icon to see the project.</p>
                                             </div>
-
                                             <div class="carouse-outer">
                                                 <div class="project-carousel owl-theme owl-carousel">
-                                                    <!--Project Block-->
                                                     <div class="project-block">
                                                         <div class="inner-box">
                                                             <div class="image-box">
                                                                 <figure class="image"><img src="images/gallery/4.png"
-                                                                        alt="" /></figure>
+                                                                        alt=""></figure>
                                                             </div>
                                                             <div class="caption-box">
                                                                 <h4>&lt;noscript&gt; Chat App</h4>
-                                                                <div class="cat">
-                                                                    <a>Made with</a>
-                                                                    <a>PHP</a>
+                                                                <div class="cat"><a>Made with</a> <a>PHP</a>
                                                                     <li><a href="https://github.com/d-a-s-h-o/chat"
                                                                             target="_blank"><span
                                                                                 class="fab fa-github"></span></a></li>
@@ -974,15 +744,11 @@
                                                             </div>
                                                         </div>
                                                     </div>
-
-                                                    <!-- Project Block-->
                                                     <div class="project-block">
                                                         <div class="inner-box">
                                                             <div class="caption-box">
                                                                 <h4>&lt;noscript&gt; Droplet Hosting</h4>
-                                                                <div class="cat">
-                                                                    <a>Made with</a>
-                                                                    <a>PHP</a>
+                                                                <div class="cat"><a>Made with</a> <a>PHP</a>
                                                                     <li><a href="https://github.com/d-a-s-h-o/tor-php-hosting"
                                                                             target="_blank"><span
                                                                                 class="fab fa-github"></span></a></li>
@@ -990,7 +756,7 @@
                                                             </div>
                                                             <div class="image-box">
                                                                 <figure class="image"><img src="images/gallery/1.png"
-                                                                        alt="" /></figure>
+                                                                        alt=""></figure>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1004,51 +770,35 @@
                     </div>
                 </div>
             </section>
-            <!-- End Portfolio Section -->
-
-            <!-- Contact Section -->
             <section class="section pp-scrollable" id="contact">
                 <div class="contact-section">
                     <div class="sec-icon"><span class="flaticon-support-2"></span></div>
                     <div class="sec-count">06</div>
-                    <div class="sec-float-text">
-                        <span>C</span>
-                        <span>O</span>
-                        <span>N</span>
-                        <span>T</span>
-                        <span>A</span>
-                        <span>C</span>
-                        <span>T</span>
+                    <div class="sec-float-text"><span>C</span> <span>O</span> <span>N</span> <span>T</span>
+                        <span>A</span> <span>C</span> <span>T</span>
                     </div>
                     <div class="auto-container">
                         <div class="center-box">
                             <div class="center-inner">
-                                <div class="sec-title light">
-                                    <span class="title">HAVE I LEFT YOU WANTING MORE?</span>
+                                <div class="sec-title light"><span class="title">HAVE I LEFT YOU WANTING MORE?</span>
                                     <h2>Get in touch today</h2>
                                 </div>
-
                                 <div class="row">
                                     <div class="contact-info-block col-lg-4 col-md-6 col-sm-12">
-                                        <div class="inner">
-                                            <span class="icon flaticon-envelope"></span>
+                                        <div class="inner"><span class="icon flaticon-envelope"></span>
                                             <h4>Email</h4>
                                             <p><a href="mailto:o_o@dasho.dev">o_o@dasho.dev</a></p>
                                         </div>
                                     </div>
-
                                     <div class="contact-info-block col-lg-4 col-md-6 col-sm-12">
-                                        <div class="inner">
-                                            <span class="icon flaticon-support"></span>
+                                        <div class="inner"><span class="icon flaticon-support"></span>
                                             <h4>Socials</h4>
                                             <p><a href="https://keybase.io/d_a_s_h_o" target="_blank">Check my all my
                                                     socials Here!</a></p>
                                         </div>
                                     </div>
-
                                     <div class="contact-info-block col-lg-4 col-md-6 col-sm-12">
-                                        <div class="inner">
-                                            <span class="icon flaticon-pin"></span>
+                                        <div class="inner"><span class="icon flaticon-pin"></span>
                                             <h4>Location</h4>
                                             <p>Dublin, Ireland</p>
                                         </div>
@@ -1059,15 +809,10 @@
                         <h1 class="sign-off">A great developer once said:<br><span
                                 class="xlarge"><em>"Adios!"</em></span></h1>
                     </div>
-
                     <footer class="main-footer">
                         <div class="auto-container">
-                            <div class="logo">
-                                <a href="index.html"><img src="images/logo.png" alt="" title=""></a>
-                            </div>
-                            <div class="text">This website was made with ❤️ by Dasho
-
-                            </div>
+                            <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
+                            <div class="text">This website was made with ❤️ by Dasho</div>
                             <ul class="social-icon-four">
                                 <li><a href="https://keybase.io/d_a_s_h_o" target="_blank"><span
                                             class="fab fa-keybase"></span></a></li>
@@ -1078,36 +823,25 @@
                                 <li><a href="https://www.reddit.com/user/ScratchThatScarecrow" target="_blank"><span
                                             class="fab fa-reddit"></span></a></li>
                             </ul>
-                            </ul>
                         </div>
                     </footer>
                 </div>
             </section>
-            <!--End Contact Section -->
-
         </div>
-        <!-- Scroll To Top -->
-
-        <script src="js/cursor.js"></script>
-        <script>
-            new kursor({
-                type: 1,
-                removeDefaultCursor: true,
-                color: '#149dcc'
-            })
-        </script>
-        <script src="js/jquery.js"></script>
+        <script src="js/cursor.min.js"></script>
+        <script>new kursor({ type: 1, removeDefaultCursor: !0, color: "#149dcc" })</script>
+        <script src="js/jquery.min.js"></script>
         <script src="js/popper.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery.fancybox.js"></script>
-        <script src="js/appear.js"></script>
-        <script src="js/owl.js"></script>
-        <script src="js/wow.js"></script>
+        <script src="js/jquery.fancybox.min.js"></script>
+        <script src="js/appear.min.js"></script>
+        <script src="js/owl.min.js"></script>
+        <script src="js/wow.min.js"></script>
         <script src="js/parallax.min.js"></script>
         <script src="js/jquery.pagepiling.min.js"></script>
-        <script src="js/isotope.js"></script>
-        <script src="js/script.js"></script>
-    </div><!-- Page Wrapper -->
+        <script src="js/isotope.min.js"></script>
+        <script src="js/script.min.js"></script>
+    </div>
 </body>
 
 </html>
