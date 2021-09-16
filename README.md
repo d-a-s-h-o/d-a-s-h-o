@@ -1,10 +1,11 @@
-![banner-bg](https://user-images.githubusercontent.com/67351287/113453215-6c6ca300-93fd-11eb-92db-f56662c306b1.jpg)
+![sandy-urban-beach-at-night-3653567-3047924](https://user-images.githubusercontent.com/67351287/133612861-e0686cc4-1062-46a5-97ed-10b2bc272ec9.png)
+
 
 # Dasho
 ```console
-dasho@github:~$ whoami
+dasho@github:~$ ./whoami
 dasho
-dasho@github:~$ dasho | more
+dasho@github:~$ cat dasho
 Hi, I'm Dasho
 * Darknet background
 * Outdoor, sports & pizza lover
@@ -21,13 +22,15 @@ Network security, penetration testing / physical penetration testing, vulnerabil
 ```console
 dasho@github:~$ cat active_pojects
 * [Dashed Hosting](https://github.com/d-a-s-h-o/tor-php-hosting)
-* [Chatterbox](https://github.com/thenullnetwork/chatterbox) 
+* [The Underground Railroad](https://github.com/d-a-s-h-o/chat) 
+* [uploads@Onionz](https://upload.onionz.dev)
+* SECRET_PROJECT
 ```
 
-### Last projects :milky_way:
+### Other projects :milky_way:
 ```console
-dasho@github:~$ cat last_pojects
-* [D&D//DNK](https://github.com/thenullnetwork/dnd)
+dasho@github:~$ cat other_pojects
+* [DNDz](https://github.com/d-a-s-h-o/dnd)
 * The Onionz Project
 * [TV@Onionz](https://tv.onionz.dev)
 * [DNK//Share](https://share.onionz.dev)
