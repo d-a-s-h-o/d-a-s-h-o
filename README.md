@@ -23,7 +23,7 @@ Network security, penetration testing / physical penetration testing, vulnerabil
 dasho@github:~$ cat active_pojects
 * [Dashed Hosting](https://github.com/d-a-s-h-o/tor-php-hosting)
 * [The Underground Railroad](https://github.com/d-a-s-h-o/chat) 
-* [uploads@Onionz](https://upload.onionz.dev)
+* [uploads@Sokka](https://upload.sokka.io)
 * SECRET_PROJECT
 ```
 
@@ -31,9 +31,9 @@ dasho@github:~$ cat active_pojects
 ```console
 dasho@github:~$ cat other_pojects
 * [DNDz](https://github.com/d-a-s-h-o/dnd)
-* The Onionz Project
-* [TV@Onionz](https://tv.onionz.dev)
-* [DNK//Share](https://share.onionz.dev)
+* The Sokka Project
+* [TV@sokka](https://tv.sokka.io)
+* [DNK//Share](https://share.sokka.io)
 ```
 
 ### Favourite Dev Tools
@@ -77,17 +77,17 @@ dasho@github:~$ cat | `decrypt ./dasho_of_darknet`
 dasho@github:~$ cat | `sudo decrypt ./dasho_of_darknet`
 [sudo] password for dasho:
 * A list of resources by Dasho:
-*   - [git@onionz](http://dnkgitith76l6ljojzoxzadhvgvj74vl6os6ft4wnef4gxhfbc2ghzad.onion/)
-*   - [(paste|upload)@onionz](http://jndqdjrmicijxrpehjy7phmzizxjh3fr4wdmfwzuzz2blrvrvzi2tqid.onion/)
-*   - [chat@onionz](http://cboxkuuxrtulkkxhod2pxo3la25tztcp4cdjmc75wc5airqqliq2srad.onion/)
-*   - [host@onionz](http://dnkhostduos5t3k66ye52waphqx7vk23ict2viojwny354lawjn4lzqd.onion/)
+*   - [git@sokka](http://dnkgitith76l6ljojzoxzadhvgvj74vl6os6ft4wnef4gxhfbc2ghzad.onion/)
+*   - [(paste|upload)@sokka](http://jndqdjrmicijxrpehjy7phmzizxjh3fr4wdmfwzuzz2blrvrvzi2tqid.onion/)
+*   - [chat@sokka](http://cboxkuuxrtulkkxhod2pxo3la25tztcp4cdjmc75wc5airqqliq2srad.onion/)
+*   - [host@sokka](http://dnkhostduos5t3k66ye52waphqx7vk23ict2viojwny354lawjn4lzqd.onion/)
 ```
 
 ### Contacts
 * [Keybase](https://keybase.io/d_a_s_h_o/)
-* [Chat](https://chat.onionz.dev)
+* [Chat](https://chat.sokka.io)
 * [Sonar](http://sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion/)
 * Discord: `Dasho#6618`
-* [Email](mailto:dasho@onionz.dev)
+* [Email](mailto:o_o@dasho.dev)
 
 ![stackEcosystem](https://user-images.githubusercontent.com/67351287/113453657-5b706180-93fe-11eb-940b-6a0eee45fb68.png)
