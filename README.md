@@ -23,7 +23,7 @@ Network security, penetration testing / physical penetration testing, vulnerabil
 dasho@github:~$ cat active_pojects
 * [Dashed Hosting](https://github.com/d-a-s-h-o/tor-php-hosting)
 * [The Underground Railroad](https://github.com/d-a-s-h-o/chat) 
-* [uploads@Sokka](https://upload.sokka.io)
+* [uploads@sokka](https://upload.sokka.io)
 * SECRET_PROJECT
 ```
 
