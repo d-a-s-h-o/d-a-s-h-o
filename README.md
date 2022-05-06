@@ -85,8 +85,9 @@ dasho@github:~$ cat | `sudo decrypt ./dasho_of_darknet`
 
 ### Contacts
 * [Keybase](https://keybase.io/d_a_s_h_o/)
+* [Telegram](https://t.me/d_a_s_h_o/)
 * [Chat](https://chat.sokka.io)
-* [Sonar](http://sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion/)
+* [Sonar](http://sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion/contact/Dasho)
 * Discord: `Dasho#6618`
 * [Email](mailto:o_o@dasho.dev)
 
