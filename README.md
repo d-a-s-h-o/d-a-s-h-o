@@ -1,26 +1,27 @@
-![sandy-urban-beach-at-night-3653567-3047924](https://user-images.githubusercontent.com/67351287/133612861-e0686cc4-1062-46a5-97ed-10b2bc272ec9.png)
+[![113453215-6c6ca300-93fd-11eb-92db-f56662c306b1](https://user-images.githubusercontent.com/67351287/187288808-b3ead978-87a3-41bd-9b3b-a75c21a24911.jpg)](https://dasho.dev)
 
 
 # Dasho
 ```console
-dasho@github:~$ ./whoami
-dasho
-dasho@github:~$ cat dasho
+dasho@github:~$ ls
+dasho.txt   infosec_interests.txt   active_pojects.txt   other_pojects.txt
+fav_dev_tools.txt   dasho_of_darknet.pgp
+dasho@github:~$ cat dasho.txt
 Hi, I'm Dasho
-* Darknet background
+* OpSec background
 * Outdoor, sports & pizza lover
 * Infosec enthusiast driven by passion, curiosity and willingness to learn
 ```
 
 ### InfoSec interests  :space_invader: 
 ```console
-dasho@github:~$ cat infosec_interests
+dasho@github:~$ cat infosec_interests.txt
 Network security, penetration testing / physical penetration testing, vulnerability assessment, threat intelligence, CTF
 ```
 
 ### Currently working on :ghost:
 ```console
-dasho@github:~$ cat active_pojects
+dasho@github:~$ cat active_pojects.txt
 * [Dashed Hosting](https://github.com/d-a-s-h-o/tor-php-hosting)
 * [The Underground Railroad](https://github.com/d-a-s-h-o/chat) 
 * [uploads@sokka](https://upload.sokka.io)
@@ -29,7 +30,7 @@ dasho@github:~$ cat active_pojects
 
 ### Other projects :milky_way:
 ```console
-dasho@github:~$ cat other_pojects
+dasho@github:~$ cat other_pojects.txt
 * [DNDz](https://github.com/d-a-s-h-o/dnd)
 * The Sokka Project
 * [TV@sokka](https://tv.sokka.io)
@@ -38,7 +39,7 @@ dasho@github:~$ cat other_pojects
 
 ### Favourite Dev Tools
 ```console
-dasho@github:~$ cat fav_dev_tools
+dasho@github:~$ cat fav_dev_tools.txt
 * [GitHub](https://github.com)
 * [Docker](https://www.docker.com)
 * [Kubernetes](https://kubernetes.io)
@@ -72,9 +73,10 @@ dasho@github:~$ cat fav_dev_tools
 
 ### Dark Net Services
 ```console
-dasho@github:~$ cat | `decrypt ./dasho_of_darknet`
-  decrypt: cannot decrypt file ‘/home/dasho/dasho_of_darknet’: Permission denied
-dasho@github:~$ cat | `sudo decrypt ./dasho_of_darknet`
+dasho@github:~$ cat | `gpg --decrypt dasho_of_darknet.pgp`
+  gpg: cannot decrypt file ‘/home/dasho/dasho_of_darknet.pgp’: Permission denied
+dasho@github:~$ cat | `sudo gpg --decrypt dasho_of_darknet.pgp`
+
 [sudo] password for dasho:
 * A list of resources by Dasho:
 *   - [git@sokka](http://dnkgitith76l6ljojzoxzadhvgvj74vl6os6ft4wnef4gxhfbc2ghzad.onion/)
