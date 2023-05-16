@@ -1,0 +1,151 @@
+\documentclass{article}
+
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{tikz}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{enumitem}
+\usepackage[official]{eurosym}
+\usepackage[a4paper, portrait, margin=1.2in]{geometry}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{1,1,1}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\scriptsize,
+    breakatwhitespace=false,
+    breaklines=true,
+    captionpos=b,
+    keepspaces=true,
+    numbers=left,
+    numbersep=5pt,
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=2
+}
+
+\lstset{style=mystyle}
+
+\graphicspath{{Images/}}
+\newcommand\set{\newcommand}
+
+\set\school{College Physics (with Modern Physics)}
+\set\moduleCode{DASHO EDU}
+\set\moduleDescription{2023}
+
+\set\experimentTitle{A Physics Handbook for College}
+\set\experimentDescription{A guide to college physics, complete with modern physics, and mathematics. This handbook is intended to be used by students and teachers alike. Updated regularly at https://dasho.dev/physics/book.pdf. Open-source at https://dasho.dev/physics/book.tex.}
+
+\set\myName{Dasho}
+\set\myEmail{edu@dasho.dev}
+
+\fancypagestyle{firstpage}{%
+  \lhead{\school}
+  \rhead{
+  \moduleCode \ \moduleDescription}
+}
+
+%%%% PROJECT TITLE
+\title{\experimentTitle \\
+        \small \emph{\experimentDescription}}
+
+%%%% NAMES OF ALL THE STUDENTS INVOLVED (first-name last-name)
+\author{\href{mailto:\myEmail}{\myName}}
+
+
+\begin{document}
+\maketitle
+\thispagestyle{firstpage}
+
+\section*{Preface}
+
+This book grew out of 
+
+\section*{Introduction}
+
+Introduction
+
+\section*{Theory}
+
+Theory
+
+\section*{Experimental}
+
+Experimental
+
+\section*{Data}
+
+Data
+
+\section*{Results}
+
+Results
+
+\section*{Discussion}
+
+Discussion
+
+\section*{Conclusion}
+
+Conclusion
+
+\section*{References}
+
+References
+
+\section*{Abstract}
+
+Abstract
+
+\section*{Introduction}
+
+Introduction
+
+\section*{Theory}
+
+Theory
+
+\section*{Experimental}
+
+Experimental
+
+\section*{Data}
+
+Data
+
+\section*{Results}
+
+Results
+
+\section*{Discussion}
+
+Discussion
+
+\section*{Conclusion}
+
+Conclusion
+
+\section*{References}
+
+References
+
+%\bibliographystyle{IEEEtran}
+%\bibliography{references}
+
+\end{document}
