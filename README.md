@@ -1,5 +1,5 @@
 <!-- [![113453215-6c6ca300-93fd-11eb-92db-f56662c306b1](https://user-images.githubusercontent.com/67351287/187288808-b3ead978-87a3-41bd-9b3b-a75c21a24911.jpg)](https://dasho.dev) -->
-<img width="100%" src="images/header.svg">
+<a style="height: fit-content;" href="https://dasho.dev"><img width="100%" hight="100%" src="images/header.svg" /></a>
 
 ### 🧰 Languages, Stacks, Frameworks, Tools & Services
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; flex-grow: 1; flex-direction: row; row-gap: 10px; column-gap: 40px;

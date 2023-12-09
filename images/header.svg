@@ -1,4 +1,3 @@
-
 <svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
   <div xmlns="http://www.w3.org/1999/xhtml">
@@ -201,44 +200,6 @@
         }
       }
 
-      .tooltipDasho {
-  position: relative;
-  display: inline-block;
-}
-
-.tooltipDasho .tooltiptextDasho {
-  visibility: hidden;
-  width: 140px;
-  background-color: #555;
-  color: #fff;
-  text-align: center;
-  font-size: 8px;
-  border-radius: 6px;
-  padding: 5px;
-  position: absolute;
-  z-index: 1;
-  bottom: 150%;
-  left: 50%;
-  margin-left: -75px;
-  opacity: 0;
-  transition: opacity 0.3s;
-}
-
-.tooltipDasho .tooltiptextDasho::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: #555 transparent transparent transparent;
-}
-
-.tooltipDasho:hover .tooltiptextDasho {
-  visibility: visible;
-  opacity: 1;
-}
     </style>
     <div class='body'>
       <div class='container'>
@@ -251,33 +212,17 @@
         </h1>
         <section class='items'>
           <ul>
-            <li>Student &#38; Software Engineer</li>
+            <li>Student in Ireland</li>
           </ul>
           <ul>
-            <li>at Stax</li>
+            <li>DevOps @ Stax</li>
           </ul>
           <ul>
-            <li><span class="tooltipDasho"><a id="emailButtonDasho" onclick="dashoCopyEmail()" onmouseout="outFunc()" title="click me" role="button"><span class='hi'><span class="tooltiptextDasho" id="emailButtonDashoTooltip">Copy to clipboard</span>👋</span></a></span></li>
+            <li><a href="mailto:o_o@dasho.dev" id="emailButtonDasho" role="button"><span class='hi'>👋</span></a></li>
           </ul>
         </section>
       </div>
     </div>
   </div>
-  <script>
-function dashoCopyEmail() {
-  var copyText = "o_o@dasho.dev";
-  navigator.clipboard.writeText(copyText);
-  
-  var tooltip = document.getElementById("emailButtonDashoTooltip");
-  tooltip.innerHTML = "Copied to clipboard!";
-}
-
-function outFunc() {
-  var tooltip = document.getElementById("emailButtonDashoTooltip");
-  tooltip.innerHTML = "Copy email to clipboard";
-}
-
-document.getElementById("emailButtonDasho").addEventListener("click", dashoCopyEmail);
-</script>
   </foreignObject>
 </svg>
