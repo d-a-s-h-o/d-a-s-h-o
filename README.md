@@ -5,14 +5,17 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; flex-grow: 1; flex-direction: row; row-gap: 10px; column-gap: 10px; width: 100%; height: fit-content; padding: 10px; border-radius: 10px; background-color: #111; color: #000; font-size: 1.2em; font-weight: 500; line-height: 1.5em; text-align: center; margin: 10px 0; box-shadow: 0 0 10px 0 rgba(0,0,0,0.1); transition: all 0.3s; overflow: hidden;">
 <div>
 <img src="https://img.shields.io/badge/Languages-blue" />
+<!-- Rust, Golang, Python, Dart, C++, Zig -->
 <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" title="Rust" /></a>
 <a href="https://golang.org"><img src="https://skillicons.dev/icons?i=go" title="Golang" /></a>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" title="Python" /></a>
 <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" title="Dart" /></a>
-<a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" title="C++" /></a><br />
+<a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" title="C++" /></a>
+<a href="https://ziglang.org"><img src="https://skillicons.dev/icons?i=zig" title="Zig" /></a>
 </div>
 <div>
 <img src="https://img.shields.io/badge/Stacks-orange" />
+<!-- Django, Flask, PHP, Ruby on Rails -->
 <a href="https://www.djangoproject.com"><img src="https://skillicons.dev/icons?i=django" title="Django" /></a>
 <a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask" title="Flask" /></a>
 <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" title="PHP" /></a>
@@ -49,7 +52,7 @@
 </div>
 <div>
 <img src="https://img.shields.io/badge/DevOps-red" />
-<!-- Github, Kubernetes, Docker, Ansible, Jenkins, Keybase, Cloudflare -->
+<!-- Github, Kubernetes, Docker, Ansible, Jenkins, Keybase, Cloudflare, Pyinfra, Terraform -->
 <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" title="Github" /></a>
 <a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=k8s" title="Kubernetes" /></a>
 <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" title="Docker" /></a>
@@ -58,6 +61,9 @@
 <!-- No Keybase icon on skillicons.dev so using iconscout instead -->
 <a href="https://keybase.io"><img src="https://cdn.iconscout.com/icon/free/png-512/free-keybase-3521529-2945032.png?f=webp&w=50" title="Keybase" /></a>
 <a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" /></a>
+<!-- No Pyinfra icon on skillicons.dev so using iconscout instead -->
+<a href="https://pyinfra.com"><img src="https://pyinfra.com/static/logo_small.png" title="Pyinfra" style="width: 50px; height: 50px;" /></a>
+<a href="https://www.terraform.io"><img src="https://skillicons.dev/icons?i=terraform" title="Terraform" /></a>
 </div>
 <div>
 <img src="https://img.shields.io/badge/Tools-purple" />
