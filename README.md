@@ -5,21 +5,21 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; flex-grow: 1; flex-direction: row; row-gap: 10px; column-gap: 40px;
 ">
 <span>Languages</span><br />
-<img src="https://skillicons.dev/icons?i=rust,go,python,dart,cpp" /><br />
+<img src="https://skillicons.dev/icons?i=rust,go,python,dart,cpp" title="Rust, Golang, Python, Dart, C++" /><br />
 <span>Full Stack Frameworks</span><br />
-<img src="https://skillicons.dev/icons?i=django,flask,php,rails" style="padding-right: 10px"/><br />
+<img src="https://skillicons.dev/icons?i=django,flask,php,rails" title="Django, Flask, PHP, Ruby on Rails" /><br />
 <span>Javascript Frameworks</span><br />
-<img src="https://skillicons.dev/icons?i=nodejs,next,react,vue,angular,threejs" /><br />
+<img src="https://skillicons.dev/icons?i=nodejs,deno,bun,next,react,vue,angular,threejs" title="Nodejs, Deno, Bun, Nextjs, React, Vuejs, Angular, Threejs" /><br />
 <span>Database Engines</span><br />
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo,redis,graphql" /><br />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo,redis,graphql" title="PostgreSQL, MySQL, MongoDB, Redis, GraphQL" /><br />
 <span>Basics</span><br />
-<img src="https://skillicons.dev/icons?i=ts,js,html,css" /><br />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css" title="TypeScript, JavaScript, HTML5, CSS3" /><br />
 <span>DevOps</span><br />
-<img src="https://skillicons.dev/icons?i=github,k8s,docker,ansible" /><br />
+<img src="https://skillicons.dev/icons?i=github,k8s,docker,ansible" title="Github, Kubernetes, Docker, Ansible" /><br />
 <span>Dev Environment</span><br />
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,idea,neovim,bash" /><br />
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,idea,neovim,bash" title="Git, Linux, VSCode, Jetbrains, Neovim, Bash (sh)" /><br />
 <span>Cloud Services</span><br />
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase" title="AWS, Azure, Google Cloud, Firebase... I also know Digital Ocean ;)" />
 </div>
 <br />
 
