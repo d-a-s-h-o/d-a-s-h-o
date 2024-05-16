@@ -4,22 +4,87 @@
 ### 🧰 Languages, Stacks, Frameworks, Tools & Services
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; flex-grow: 1; flex-direction: row; row-gap: 10px; column-gap: 40px;
 ">
-<span>Languages</span><br />
-<img src="https://skillicons.dev/icons?i=rust,go,python,dart,cpp" title="Rust, Golang, Python, Dart, C++" /><br />
-<span>Full Stack Frameworks</span><br />
-<img src="https://skillicons.dev/icons?i=django,flask,php,rails" title="Django, Flask, PHP, Ruby on Rails" /><br />
-<span>Javascript Frameworks</span><br />
-<img src="https://skillicons.dev/icons?i=nodejs,deno,bun,next,react,vue,angular,threejs" title="Nodejs, Deno, Bun, Nextjs, React, Vuejs, Angular, Threejs" /><br />
-<span>Database Engines</span><br />
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo,redis,graphql" title="PostgreSQL, MySQL, MongoDB, Redis, GraphQL" /><br />
-<span>Basics</span><br />
-<img src="https://skillicons.dev/icons?i=ts,js,html,css" title="TypeScript, JavaScript, HTML5, CSS3" /><br />
-<span>DevOps</span><br />
-<img src="https://skillicons.dev/icons?i=github,k8s,docker,ansible" title="Github, Kubernetes, Docker, Ansible" /><br />
-<span>Dev Environment</span><br />
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,idea,neovim,bash" title="Git, Linux, VSCode, Jetbrains, Neovim, Bash (sh)" /><br />
-<span>Cloud Services</span><br />
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase" title="AWS, Azure, Google Cloud, Firebase... I also know Digital Ocean ;)" />
+<div>
+<img src="https://img.shields.io/badge/Languages-blue" />
+<a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" title="Rust" /></a>
+<a href="https://golang.org"><img src="https://skillicons.dev/icons?i=go" title="Golang" /></a>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" title="Python" /></a>
+<a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" title="Dart" /></a>
+<a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" title="C++" /></a><br />
+</div>
+<div>
+<img src="https://img.shields.io/badge/Stacks-orange" />
+<a href="https://www.djangoproject.com"><img src="https://skillicons.dev/icons?i=django" title="Django" /></a>
+<a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask" title="Flask" /></a>
+<a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" title="PHP" /></a>
+<a href="https://rubyonrails.org"><img src="https://skillicons.dev/icons?i=rails" title="Ruby on Rails" /></a>
+</div>
+<div>
+<img src="https://img.shields.io/badge/Javascript_Frameworks-yellow" />
+<!-- Nodejs, Deno, Bun, Nextjs, React, Vuejs, Angular, Threejs -->
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" title="Nodejs" /></a>
+<a href="https://deno.land"><img src="https://skillicons.dev/icons?i=deno" title="Deno" /></a>
+<a href="https://bun.dev"><img src="https://skillicons.dev/icons?i=bun" title="Bun" /></a>
+<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=next" title="Nextjs" /></a>
+<a href="https://reactjs.org"><img src="https://skillicons.dev/icons?i=react" title="React" /></a>
+<a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue" title="Vuejs" /></a>
+<a href="https://angular.io"><img src="https://skillicons.dev/icons?i=angular" title="Angular" /></a>
+<a href="https://threejs.org"><img src="https://skillicons.dev/icons?i=threejs" title="Threejs" /></a>
+</div>
+<div>
+<img src="https://img.shields.io/badge/Database_Engines-green" />
+<!-- PostgreSQL, MySQL, MongoDB, Redis, GraphQL -->
+<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" /></a>
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" /></a>
+<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongo" title="MongoDB" /></a>
+<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" title="Redis" /></a>
+<a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql" title="GraphQL" /></a>
+</div>
+<div>
+<img src="https://img.shields.io/badge/Basics-gray" />
+<!-- TypeScript, JavaScript, HTML5, CSS3 -->
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" title="TypeScript" /></a>
+<a href="https://www.javascript.com"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" /></a>
+<a href="https://www.w3.org/html"><img src="https://skillicons.dev/icons?i=html" title="HTML5" /></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://skillicons.dev/icons?i=css" title="CSS3" /></a>
+</div>
+<div>
+<img src="https://img.shields.io/badge/DevOps-red" />
+<!-- Github, Kubernetes, Docker, Ansible, Jenkins, Keybase, Cloudflare -->
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" title="Github" /></a>
+<a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=k8s" title="Kubernetes" /></a>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" title="Docker" /></a>
+<a href="https://www.ansible.com"><img src="https://skillicons.dev/icons?i=ansible" title="Ansible" /></a>
+<a href="https://www.jenkins.io"><img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" /></a>
+<!-- No Keybase icon on skillicons.dev so using iconscout instead -->
+<a href="https://keybase.io"><img src="https://cdn.iconscout.com/icon/free/png-512/free-keybase-3521529-2945032.png?f=webp&w=50
+" title="Keybase" /></a>
+<a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" /></a>
+</div>
+<div>
+<img src="https://img.shields.io/badge/Tools-purple" />
+<!-- Git, Linux, VSCode, Jetbrains, Neovim, Bash, GIMP, Inkscape, Figma -->
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" title="Git" /></a>
+<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" title="Linux" /></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" title="VSCode" /></a>
+<a href="https://www.jetbrains.com"><img src="https://skillicons.dev/icons?i=idea" title="Jetbrains" /></a>
+<a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" title="Neovim" /></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" title="Bash (sh)" /></a>
+<!-- No GIMP, Inkscape icons on skillicons.dev so using iconscout instead -->
+<a href="https://www.gimp.org"><img src="https://cdn.iconscout.com/icon/free/png-512/free-gimp-4-1175223.png?f=webp&&w=50" title="GIMP" /></a>
+<a href="https://inkscape.org"><img src="https://cdn.iconscout.com/icon/free/png-512/free-inkscape-2-1175022.png?f=webp&w=50" title="Inkscape" /></a>
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" title="Figma" /></a>
+</div>
+<div>
+<img src="https://img.shields.io/badge/Cloud_Services-blue" />
+<!-- AWS, Azure, Google Cloud, Firebase, DigitalOcean -->
+<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" title="AWS" /></a>
+<a href="https://azure.microsoft.com"><img src="https://skillicons.dev/icons?i=azure" title="Azure" /></a>
+<a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" /></a>
+<a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" title="Firebase" /></a>
+<!-- No DigitalOcean icon on skillicons.dev so using iconscout instead -->
+<a href="https://www.digitalocean.com"><img src="https://cdn.iconscout.com/icon/free/png-512/free-digital-ocean-3521385-2944829.png?f=webp&w=50" title="DigitalOcean" /></a>
+</div>
 </div>
 <br />
 
