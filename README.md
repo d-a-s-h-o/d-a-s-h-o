@@ -2,125 +2,16 @@
 <a style="height: fit-content;" href="https://dasho.dev"><img width="100%" hight="100%" src="images/header.svg" /></a>
 
 ### 🧰 Languages, Stacks, Frameworks, Tools & Services
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=rust,go,python,dart,cpp" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=django,flask,php,rails" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,next,react,vue,angular,threejs" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo,redis,graphql" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=github,k8s,docker,ansible" />
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,linux,vscode,jetbrains,inkscape,gimp,bash" />
-</p>
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; flex-grow: 1; flex-direction: row; row-gap: 10px; column-gap: 40px;
 ">
-<div>
-<!-- Rust (First)-->
-<img align="left" alt="Rust" width="30px" style="padding-right:10px; filter: invert(0.5) sepia(1) saturate(5) hue-rotate(5deg);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-<!-- Go -->
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<!-- Python -->
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<!-- Dart -->
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
-<!-- C (No Space)-->
-<img align="left" alt="C++" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-</div>
-<div>
-<!-- Django -->
-<img align="left" alt="Django" width="30px" style="padding-right:10px; filter: invert(0.5) sepia(1) saturate(5) hue-rotate(60deg);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<!-- Flask -->
-<img align="left" alt="Flask" width="30px" style="padding-right:10px; filter: invert(0.5) sepia(1) saturate(5) hue-rotate(300deg);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<!-- PHP -->
-<img align="left" alt="LAMP/LEMP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<!-- Ruby on Rails (No Space) -->
-<img align="left" alt="Ruby on Rails" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
-</div>
-<div>
-<!-- Node -->
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<!-- Next -->
-<img align="left" alt="Next" width="30px" style="padding-right:10px; filter: invert(0.9);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<!-- React -->
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<!-- Vue -->
-<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<!-- Angular -->
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<!-- Threejs (No Space) -->
-<img align="left" alt="Threejs" width="30px" style="padding-right:0px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
-</div>
-<div>
-<!-- PostgreSQL -->
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-<!-- MySQL -->
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-<!-- MongoDB -->
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-<!-- Redis -->
-<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" />
-<!-- GraphQL (No Space) -->
-<img align="left" alt="GraphQL" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-</div>
-<div>
-<!-- TypeScript -->
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<!-- JS -->
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<!-- HTML -->
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<!-- CSS (No Space) -->
-<img align="left" alt="CSS" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-</div>
-<div>
-<!-- GitHub -->
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px; filter: brightness(10);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<!-- K8s -->
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<!-- Docker -->
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<!-- Ansible (No Space) -->
-<img align="left" alt="Ansible" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-</div>
-<div>
-<!-- Git -->
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<!-- Linux -->
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<!-- VSCode -->
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<!-- JetBrains -->
-<img align="left" alt="JetBrains" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-<!-- Inkscape -->
-<img align="left" alt="Inkscape" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
-<!-- GIMP -->
-<img align="left" alt="GIMP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
-<!-- Bash (No Space)-->
-<img align="left" alt="Bash" width="30px" style="padding-right:0px; filter: brightness(10);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-</div>
-<div>
-<!-- AWS -->
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<!-- Azure -->
-<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<!-- GCP -->
-<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-<!-- Firebase -->
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<!-- DigitalOcean (No Space)-->
-<img align="left" alt="DigitalOcean" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
-</div>
+<img src="https://skillicons.dev/icons?i=rust,go,python,dart,cpp" />
+    <img src="https://skillicons.dev/icons?i=django,flask,php,rails" />
+    <img src="https://skillicons.dev/icons?i=nodejs,next,react,vue,angular,threejs" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo,redis,graphql" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=github,k8s,docker,ansible" />
+    <img src="https://skillicons.dev/icons?i=git,linux,vscode,idea,bash" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase" />
 </div>
 <br />
 
