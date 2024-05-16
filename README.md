@@ -5,7 +5,7 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; flex-grow: 1; flex-direction: row; row-gap: 10px; column-gap: 40px;
 ">
 <img src="https://skillicons.dev/icons?i=rust,go,python,dart,cpp" />
-    <img src="https://skillicons.dev/icons?i=django,flask,php,rails" />
+    <img src="https://skillicons.dev/icons?i=django,flask,php,rails" style="padding-right: 10px"/>
     <img src="https://skillicons.dev/icons?i=nodejs,next,react,vue,angular,threejs" />
     <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo,redis,graphql" />
     <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
