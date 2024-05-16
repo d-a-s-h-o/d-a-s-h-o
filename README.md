@@ -2,7 +2,7 @@
 <a style="height: fit-content;" href="https://dasho.dev"><img width="100%" hight="100%" src="images/header.svg" /></a>
 
 ### 🧰 Languages, Stacks, Frameworks, Tools & Services
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; flex-grow: 1; flex-direction: row; row-gap: 10px; column-gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; flex-grow: 1; flex-direction: row; row-gap: 10px; column-gap: 10px; width: 100%; height: fit-content; padding: 10px; border-radius: 10px; background-color: #111; color: #000; font-size: 1.2em; font-weight: 500; line-height: 1.5em; text-align: center; margin: 10px 0; box-shadow: 0 0 10px 0 rgba(0,0,0,0.1); transition: all 0.3s; overflow: hidden;">
 <div>
 <img src="https://img.shields.io/badge/Languages-blue" />
 <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" title="Rust" /></a>
