@@ -2,6 +2,27 @@
 <a style="height: fit-content;" href="https://dasho.dev"><img width="100%" hight="100%" src="images/header.svg" /></a>
 
 ### 🧰 Languages, Stacks, Frameworks, Tools & Services
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=rust,go,python,dart,cpp" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=django,flask,php,rails" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,next,react,vue,angular,threejs" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo,redis,graphql" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=github,k8s,docker,ansible" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,linux,vscode,jetbrains,inkscape,gimp,bash" />
+</p>
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; flex-grow: 1; flex-direction: row; row-gap: 10px; column-gap: 40px;
 ">
 <div>
