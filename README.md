@@ -4,21 +4,21 @@
 ### 🧰 Languages, Stacks, Frameworks, Tools & Services
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; flex-grow: 1; flex-direction: row; row-gap: 10px; column-gap: 40px;
 ">
-<span>Languages</span>
-<img src="https://skillicons.dev/icons?i=rust,go,python,dart,cpp" />
-<span>Full Stack Frameworks</span>
-<img src="https://skillicons.dev/icons?i=django,flask,php,rails" style="padding-right: 10px"/>
-<span>Javascript Frameworks</span>
-<img src="https://skillicons.dev/icons?i=nodejs,next,react,vue,angular,threejs" />
-<span>Database Engines</span>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo,redis,graphql" />
-<span>Basics</span>
-<img src="https://skillicons.dev/icons?i=ts,js,html,css" />
-<span>DevOps</span>
-<img src="https://skillicons.dev/icons?i=github,k8s,docker,ansible" />
-<span>Dev Environment</span>
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,idea,neovim,bash" />
-<span>Cloud Services</span>
+<span>Languages</span><br />
+<img src="https://skillicons.dev/icons?i=rust,go,python,dart,cpp" /><br />
+<span>Full Stack Frameworks</span><br />
+<img src="https://skillicons.dev/icons?i=django,flask,php,rails" style="padding-right: 10px"/><br />
+<span>Javascript Frameworks</span><br />
+<img src="https://skillicons.dev/icons?i=nodejs,next,react,vue,angular,threejs" /><br />
+<span>Database Engines</span><br />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongo,redis,graphql" /><br />
+<span>Basics</span><br />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css" /><br />
+<span>DevOps</span><br />
+<img src="https://skillicons.dev/icons?i=github,k8s,docker,ansible" /><br />
+<span>Dev Environment</span><br />
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,idea,neovim,bash" /><br />
+<span>Cloud Services</span><br />
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase" />
 </div>
 <br />
