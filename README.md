@@ -57,8 +57,7 @@
 <a href="https://www.ansible.com"><img src="https://skillicons.dev/icons?i=ansible" title="Ansible" /></a>
 <a href="https://www.jenkins.io"><img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" /></a>
 <!-- No Keybase icon on skillicons.dev so using iconscout instead -->
-<a href="https://keybase.io"><img src="https://cdn.iconscout.com/icon/free/png-512/free-keybase-3521529-2945032.png?f=webp&w=50
-" title="Keybase" /></a>
+<a href="https://keybase.io"><img src="https://cdn.iconscout.com/icon/free/png-512/free-keybase-3521529-2945032.png?f=webp&w=50" title="Keybase" /></a>
 <a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare" title="Cloudflare" /></a>
 </div>
 <div>

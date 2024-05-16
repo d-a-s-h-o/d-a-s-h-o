@@ -168,7 +168,7 @@
         100% { opacity: 1; }
       }
 
-      <!-- @media (prefers-color-scheme: light) {
+      /* @media (prefers-color-scheme: light) {
         .body {
           --color-main: #9B5DE5;
           --color-primary: #F15BB5;
@@ -177,7 +177,7 @@
           --color-link: #00BBF9;
           --color-link-active: #F15BB5;
         }
-      } -->
+      } */
 
       @media (prefers-reduced-motion) {
         .body {
