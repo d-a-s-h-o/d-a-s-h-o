@@ -1,6 +1,11 @@
 <!-- [![113453215-6c6ca300-93fd-11eb-92db-f56662c306b1](https://user-images.githubusercontent.com/67351287/187288808-b3ead978-87a3-41bd-9b3b-a75c21a24911.jpg)](https://dasho.dev) -->
 <a style="height: fit-content;" href="https://dasho.dev"><img width="100%" hight="100%" src="images/header.svg" /></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/d-a-s-h-o/d-a-s-h-o/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution" src="https://raw.githubusercontent.com/d-a-s-h-o/d-a-s-h-o/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 ### 🧰 Languages, Stacks, Frameworks, Tools & Services
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; flex-grow: 1; flex-direction: row; row-gap: 10px; column-gap: 10px; width: 100%; height: fit-content; padding: 10px; border-radius: 10px; background-color: #111; color: #000; font-size: 1.2em; font-weight: 500; line-height: 1.5em; text-align: center; margin: 10px 0; box-shadow: 0 0 10px 0 rgba(0,0,0,0.1); transition: all 0.3s; overflow: hidden;">
 <div>
