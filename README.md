@@ -1,6 +1,6 @@
 <!-- [![113453215-6c6ca300-93fd-11eb-92db-f56662c306b1](https://user-images.githubusercontent.com/67351287/187288808-b3ead978-87a3-41bd-9b3b-a75c21a24911.jpg)](https://dasho.dev) -->
 <a style="height: fit-content;" href="https://dasho.dev"><img width="100%" hight="100%" src="images/header.svg" /></a>
-
+<!-- OMG.LOL Proog - proven9298ae -->
 <a href="#year-list-container">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/d-a-s-h-o/d-a-s-h-o/output/github-contribution-grid-snake-dark.svg">
