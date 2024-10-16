@@ -14,10 +14,11 @@
 <!-- Rust, Golang, Python, Dart, C++, Zig -->
 <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" title="Rust" /></a>
 <a href="https://golang.org"><img src="https://skillicons.dev/icons?i=go" title="Golang" /></a>
+<a href="https://ziglang.org"><img src="https://skillicons.dev/icons?i=zig" title="Zig" /></a>
+<a href="https://www.lua.org"><img src="https://skillicons.dev/icons?i=lua" title="Lua" /></a>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" title="Python" /></a>
 <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart" title="Dart" /></a>
 <a href="https://www.cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" title="C++" /></a>
-<a href="https://ziglang.org"><img src="https://skillicons.dev/icons?i=zig" title="Zig" /></a>
 </div>
 <div>
 <img src="https://img.shields.io/badge/Stacks-orange" />
